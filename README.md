@@ -1,3 +1,3 @@
-# 2nd-test-repo
+# git-essentials
 
 Offical first repo
